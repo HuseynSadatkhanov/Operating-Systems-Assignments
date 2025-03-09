@@ -12,7 +12,8 @@ This project implements the Readers-Writers synchronization problem in Python. T
 - **DesignReport.md:** A brief report outlining the synchronization mechanism, load balancing strategy, and challenges encountered.
 
 ## Requirements
-- Python 3.x (No additional packages are needed; only Python’s standard libraries are used.)
+- Python 3.x
+- No additional packages are needed; only Python’s standard libraries are used
 
 ## How to Run the Program
 1. **Install Python:** Download and install Python 3.x from [python.org](https://www.python.org/downloads/). Ensure Python is added to your system PATH.
