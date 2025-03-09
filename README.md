@@ -1,6 +1,4 @@
-# Operating-Systems-Assignment 1
-
-# Readers-Writers Problem with Load Balancing
+# Operating-Systems-Assignment 1 Readers-Writers Problem with Load Balancing
 
 ## Overview
 This project implements the Readers-Writers synchronization problem in Python. The solution provides:
