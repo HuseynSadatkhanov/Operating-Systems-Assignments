@@ -14,7 +14,7 @@ This project implements the Readers-Writers synchronization problem in Python. T
 2. **Clone or Extract the Project:** Place all files, including "readers_writers.py" and "log.txt" in a single folder
 3. **Open the Project in Visual Studio Code (or your preferred IDE):**
    - Open VS Code
-   - Choose "File -> Open Folder..." and select your project folder
+   - Choose "File --> Open Folder..." and select your project folder
 4. **Run the Program:**
    - Open the integrated terminal in VS Code (press " Ctrl+` ")
    - Run the command:
